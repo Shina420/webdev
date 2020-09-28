@@ -1,0 +1,27 @@
+body
+{
+background-color:blue;
+}
+hr
+{ 
+border-color: green;
+width:15%;
+border-style: none;
+border-top-style:none;
+}
+h1{
+color:red;
+}
+h2{
+color:orange;
+}
+h3{
+color:pink;
+}
+
+.div1{
+margin-left:50px;
+margin-right:50px;
+padding:20px;
+border: 10px gray;
+}
